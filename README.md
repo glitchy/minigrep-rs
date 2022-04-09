@@ -1,2 +1,2 @@
-# grep-rs
-grep built in rust
+# minigrep-rs
+(globally search a regular expression and print)
